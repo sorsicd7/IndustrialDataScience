@@ -6,8 +6,8 @@
 
 *Version 2 · written Sun 11 Oct 2026 from the five Moodle course pages, every file in the course folders and the
 module handbook. This file joins the five courses; each course's detailed plan is in its own folder
-(`semester-plan.md`). **One week numbering for everything: W1 = week of Mon 5 Oct 2026**, W2 = 12–18 Oct (first
-lectures); H1/H2 = the two Christmas weeks. Online overview with a day view for any date (tablet, phone):
+(`semester-plan.md`). **One week numbering for everything: W1 = week of Mon 12 Oct 2026** (the plan starts that day; first
+lectures Tue 13 Oct); H1/H2 = the two Christmas weeks. Online overview with a day view for any date (tablet, phone):
 https://claude.ai/artifact/HWvuvfoN3XtLec2nHMRTa5*
 
 ---
@@ -40,7 +40,7 @@ https://claude.ai/artifact/HWvuvfoN3XtLec2nHMRTa5*
 **Things to keep in mind**
 1. **Big Data exam year:** Moodle still writes "10.02.**26**" / "16.03.**26**". Probably a typo for 2027: ask in lecture 1.
 2. **Inference is an admission condition** (with Linear Models): it must be passed before the Case Studies (MD 4).
-3. **Exam week W17 has three exams in five days** (IDS Mon, Big Data Wed, NLP Fri). The plan prepares for this from
+3. **Exam week W16 has three exams in five days** (IDS Mon, Big Data Wed, NLP Fri). The plan prepares for this from
    the start; the decision rule in §9 says what to move if it gets too much (IDS has the latest backup date, 31 Mar).
 4. **NLP:** the programming half will be "fundamentally revised"; format not announced yet.
 5. **IDS:** one exercise task is compulsory **only for Computer Science students**; check in the first exercise that
@@ -52,10 +52,10 @@ https://claude.ai/artifact/HWvuvfoN3XtLec2nHMRTa5*
 
 | Risk | Why | What the plan does |
 |---|---|---|
-| **Programming (Python level 1)** | Half of the NLP exam is programming; IDS uses R; Big Data uses R/Python | **Python bootcamp** (5 × 90 min in W2–W3), then a coding drill every week without AI |
+| **Programming (Python level 1)** | Half of the NLP exam is programming; IDS uses R; Big Data uses R/Python | **Python bootcamp** (5 × 90 min in W1–W2), then a coding drill every week without AI |
 | **Big Data maths** | Assumes calculus, linear algebra, probability: your diagnostic gaps | Maths foundations every Monday, one week before each topic |
-| **Inference behind + admission condition** | ~1 week behind on 11 Oct | Catch-up in W2 (Monday flex + free tutorial slots); the rest is absorbed by holiday week H1 |
-| **Three exams in one week** | IDS, Big Data, NLP on 8, 10, 12 Feb | Mocks for all three in W14–W16; exam-week day plan (§9); decision rule on 25 Jan |
+| **Inference behind + admission condition** | ~1 week behind on 11 Oct | Catch-up in W1 (Monday flex + free tutorial slots); the rest is absorbed by holiday week H1 |
+| **Three exams in one week** | IDS, Big Data, NLP on 8, 10, 12 Feb | Mocks for all three in W13–W15; exam-week day plan (§9); decision rule on 25 Jan |
 | **Load: 31 CP + gym** | ~40 h study + 12 h gym per week | One fixed timetable, Sunday afternoon free, minimum-week rule (§10) |
 
 ---
@@ -129,7 +129,7 @@ campus all day; Friday morning you have IDS.
 | 11:30–12:30 | **Inference E** · recap and repair |
 | 12:30–13:30 | lunch |
 | 13:30–15:00 | **Weekly quizzes**, closed book: NLP 40 min + Big Data 40 min + IDS/DSiC 10 min |
-| 15:15–16:45 | **Coding block:** Python (bootcamp in W2–W3; later NLP drill 45 min + IDS R practice 45 min) |
+| 15:15–16:45 | **Coding block:** Python (bootcamp in W1–W2; later NLP drill 45 min + IDS R practice 45 min) |
 | 16:45–17:15 | **Wrap-up:** say "Wrap up" in each repo you used this week |
 
 **Sunday**
@@ -154,7 +154,7 @@ next **FLEX** (Monday 14:00 until DSiC starts, then Sunday 17:00), never silentl
 gym morning is lost, move it to the next free morning, not to the evening. (4) Sleep 7–8 hours; no study after 19:30.
 
 **Before all classes run** (the free slots are used like this):
-| Slot | W2 (12–18 Oct) | W3 (19–25 Oct) | W4 (26 Oct–1 Nov) | from W5 |
+| Slot | W1 (12–18 Oct) | W2 (19–25 Oct) | W3 (26 Oct–1 Nov) | from W4 |
 |---|---|---|---|---|
 | Mon 14:00–16:00 | FLEX: Inference catch-up | FLEX: Python bootcamp 4 | FLEX: Inference Gate 1 | DSiC Zoom (once it starts) |
 | Tue 10:15–11:45 | Inference catch-up (tablet) | NLP tutorial | NLP tutorial | NLP tutorial |
@@ -166,35 +166,35 @@ gym morning is lost, move it to the next free morning, not to the evening. (4) S
 
 ## 4. The semester calendar
 
-**Inference runs one week behind its own plan until Christmas** (the topic planned for W2 is done in W3, and so on);
-holiday week H1 absorbs the shift, and from W12 (4 Jan) it is back on its original dates.
+**Inference runs one week behind its own plan until Christmas** (the topic planned for W1 is done in W2, and so on);
+holiday week H1 absorbs the shift, and from W11 (4 Jan) it is back on its original dates.
 
 | Week | Dates | Inference | NLP | Big Data | IDS 1 | DSiC · checks |
 |---|---|---|---|---|---|---|
-| **W2** | 12–18 Oct | **catch-up:** 1B part 2 → 2E (derivatives, distributions, E/Var) | L1–L2: intro, data, regex · Python bootcamp 1–3 | L1–L2: intro to ML · F01 check, F03 | **Fri 16:** I01 + Intro to R | Tue 13: first lectures · quizzes start Sat 17 |
-| **W3** | 19–25 Oct | max/min, normal tables, CLT | L3–L4: preprocessing, POS, NER · tutorial from Tue 20 · bootcamp 4–5 | L3–L4: big data in R/Python · sheet 1 Wed 21 · F04, F05 | I02 data in industrial contexts | Plan review #1 (Mon 19) |
-| **W4** | 26 Oct–1 Nov | **Gate 1 (Mon 26)** · ch. 1 + bias | L5–L6: tf-idf, Zipf, n-gram LMs, perplexity, PMI | L5–L6: supervised · tutorial from Thu 29 · F06 | I03 data analysis | DSiC pre-reading (optional) |
-| **W5** | 2–8 Nov | MSE, BLUE | L7–L8: metrics, Naive Bayes, feature selection | L7–L8: supervised → optimisation | I04 databases | **DSiC starts (early Nov)** · NLP Checkpoint 1 (Sat 7) · Thu 5 Nov: Claude cloud credit ends |
-| **W6** | 9–15 Nov | consistency · Self-test 1 · **Gate 2** | L9–L10: clustering, SVD/LSA, pLSA, LDA | L9–L10: optimisation · F07 eigenvalues | I05 data warehousing, MapReduce | BD Checkpoint 1 (Sat 14) · Plan review #2 (Mon 9) |
-| **W7** | 16–22 Nov | MLE (regular cases) | L11–L12: topic-model evaluation, STM; neural nets | L11–L12: unsupervised · F08 SVD/PCA | I06 EDA · **midterm prep** | practice midterm (Sat 21) |
-| **W8** | 23–29 Nov | non-regular MLE, method of moments · Self-test 2 | L13–L14: word2vec, GloVe, fastText, benchmarking | L13–L14: unsupervised → information theory · F09 | I07 correlation · **BONUS MIDTERM Fri 27** | NLP Checkpoint 2 (Sat 28) |
-| **W9** | 30 Nov–6 Dec | estimation at speed · **Gate 3** | L15–L16: RNN, LSTM, attention | L15–L16: information theory → regularisation · F10 | I08 preprocessing, time series | BD Checkpoint 2 (Sat 5) · Plan review #3 (Mon 30 Nov) |
-| **W10** | 7–13 Dec | Z-test, errors, interpretation | L17–L18: transformer | L17–L18: regularisation → Bayesian · F11 | I09 model selection | – |
-| **W11** | 14–20 Dec | p-value, power, binomial test | L19–L20: transformer by hand; BERT | L19–L20: Bayesian inference · F12 | I10 trees, random forests | NLP Checkpoint 3 (Sat 19) |
+| **W1** | 12–18 Oct | **catch-up:** 1B part 2 → 2E (derivatives, distributions, E/Var) | L1–L2: intro, data, regex · Python bootcamp 1–3 | L1–L2: intro to ML · F01 check, F03 | **Fri 16:** I01 + Intro to R | Tue 13: first lectures · quizzes start Sat 17 |
+| **W2** | 19–25 Oct | max/min, normal tables, CLT | L3–L4: preprocessing, POS, NER · tutorial from Tue 20 · bootcamp 4–5 | L3–L4: big data in R/Python · sheet 1 Wed 21 · F04, F05 | I02 data in industrial contexts | Plan review #1 (Mon 19) |
+| **W3** | 26 Oct–1 Nov | **Gate 1 (Mon 26)** · ch. 1 + bias | L5–L6: tf-idf, Zipf, n-gram LMs, perplexity, PMI | L5–L6: supervised · tutorial from Thu 29 · F06 | I03 data analysis | DSiC pre-reading (optional) |
+| **W4** | 2–8 Nov | MSE, BLUE | L7–L8: metrics, Naive Bayes, feature selection | L7–L8: supervised → optimisation | I04 databases | **DSiC starts (early Nov)** · NLP Checkpoint 1 (Sat 7) · Thu 5 Nov: Claude cloud credit ends |
+| **W5** | 9–15 Nov | consistency · Self-test 1 · **Gate 2** | L9–L10: clustering, SVD/LSA, pLSA, LDA | L9–L10: optimisation · F07 eigenvalues | I05 data warehousing, MapReduce | BD Checkpoint 1 (Sat 14) · Plan review #2 (Mon 9) |
+| **W6** | 16–22 Nov | MLE (regular cases) | L11–L12: topic-model evaluation, STM; neural nets | L11–L12: unsupervised · F08 SVD/PCA | I06 EDA · **midterm prep** | practice midterm (Sat 21) |
+| **W7** | 23–29 Nov | non-regular MLE, method of moments · Self-test 2 | L13–L14: word2vec, GloVe, fastText, benchmarking | L13–L14: unsupervised → information theory · F09 | I07 correlation · **BONUS MIDTERM Fri 27** | NLP Checkpoint 2 (Sat 28) |
+| **W8** | 30 Nov–6 Dec | estimation at speed · **Gate 3** | L15–L16: RNN, LSTM, attention | L15–L16: information theory → regularisation · F10 | I08 preprocessing, time series | BD Checkpoint 2 (Sat 5) · Plan review #3 (Mon 30 Nov) |
+| **W9** | 7–13 Dec | Z-test, errors, interpretation | L17–L18: transformer | L17–L18: regularisation → Bayesian · F11 | I09 model selection | – |
+| **W10** | 14–20 Dec | p-value, power, binomial test | L19–L20: transformer by hand; BERT | L19–L20: Bayesian inference · F12 | I10 trees, random forests | NLP Checkpoint 3 (Sat 19) |
 | **H1** | 21–27 Dec | **asymptotic tests · Self-test 3 · mid-semester mock** (~6 h) | L21 Tue 22 Dec; consolidation 1.5 h/day | consolidation 2 h/day | 1 h: re-read I01–I10 | 4 gym mornings, rest otherwise |
 | **H2** | 28 Dec–3 Jan | light; cheat sheet v2 | cumulative test (Sat 2 Jan) | cumulative test (Sat 2 Jan) | – | rest days around New Year |
-| **W12** | 4–10 Jan | CIs, test ↔ CI duality · Self-test 4 · **Gate 5** (back on plan dates) | L22 Wed 6 Jan: LLMs, Adam, dropout | L21–L22: Bayesian → deep learning · F13 | I11 linear models, SVM | Plan review #4 (Mon 4) |
-| **W13** | 11–17 Jan | LR and UMP tests · **Gate 6** | L23–L24: fine-tuning, annotation, few/zero-shot, PET, SetFit | L23–L24: deep learning · F14 | I12 neural networks | – |
-| **W14** | 18–24 Jan | χ², t, F; one-sample t-test | L25–L26: PEFT, LoRA, quantization | L25–L26: self-supervised · F15 | I13 deep learning · endterm prep | **BD Mock 1 (Fri 22, 14:00)** · **NLP Mock 1 (Sat 23, 13:30)** |
-| **W15** | 25–31 Jan | variance and two-sample tests | L27–L28: AdaSent, PETapter, DPO, evaluation | L27–L28: kernels, Gaussian processes | I14 clustering · **BONUS ENDTERM Fri 29** | **Exam-date decision Mon 25 (§9)** · Plan review #5 |
-| **W16** | 1–7 Feb | light: "which test when", Self-test 5 | L29–L30, last lecture 3 Feb · **Mock 2 Wed 3 Feb, 14:30** | last lectures · **Mock 2 Sat 6 Feb, 13:30** | **mock exam Fri 5 Feb** | Sun 7: IDS final review |
-| **W17** | 8–14 Feb | maintenance only | **EXAM Fri 12, 9:00** | **EXAM Wed 10, 17:30** | **EXAM Mon 8, 16:00** | exam week (§9) |
-| **W18** | 15–21 Feb | **Mock B** (Mon 15) · **official example exam** (Thu 18) | exam view Wed 17 | – | – | Inference full-time |
-| **W19** | 22–28 Feb | Mocks D and E · coaching | – | – | – | – |
-| **W20** | 1–7 Mar | short mock · **exam (expected March)** | – | – | – | – |
-| **W21** | 8–14 Mar | – | 2nd date Mon 8 Mar (if needed) | – | – | – |
-| **W22** | 15–21 Mar | – | – | 2nd date Tue 16 Mar (if needed) | – | – |
-| **W24** | 29 Mar–4 Apr | – | – | – | 2nd date Wed 31 Mar (if needed) | – |
+| **W11** | 4–10 Jan | CIs, test ↔ CI duality · Self-test 4 · **Gate 5** (back on plan dates) | L22 Wed 6 Jan: LLMs, Adam, dropout | L21–L22: Bayesian → deep learning · F13 | I11 linear models, SVM | Plan review #4 (Mon 4) |
+| **W12** | 11–17 Jan | LR and UMP tests · **Gate 6** | L23–L24: fine-tuning, annotation, few/zero-shot, PET, SetFit | L23–L24: deep learning · F14 | I12 neural networks | – |
+| **W13** | 18–24 Jan | χ², t, F; one-sample t-test | L25–L26: PEFT, LoRA, quantization | L25–L26: self-supervised · F15 | I13 deep learning · endterm prep | **BD Mock 1 (Fri 22, 14:00)** · **NLP Mock 1 (Sat 23, 13:30)** |
+| **W14** | 25–31 Jan | variance and two-sample tests | L27–L28: AdaSent, PETapter, DPO, evaluation | L27–L28: kernels, Gaussian processes | I14 clustering · **BONUS ENDTERM Fri 29** | **Exam-date decision Mon 25 (§9)** · Plan review #5 |
+| **W15** | 1–7 Feb | light: "which test when", Self-test 5 | L29–L30, last lecture 3 Feb · **Mock 2 Wed 3 Feb, 14:30** | last lectures · **Mock 2 Sat 6 Feb, 13:30** | **mock exam Fri 5 Feb** | Sun 7: IDS final review |
+| **W16** | 8–14 Feb | maintenance only | **EXAM Fri 12, 9:00** | **EXAM Wed 10, 17:30** | **EXAM Mon 8, 16:00** | exam week (§9) |
+| **W17** | 15–21 Feb | **Mock B** (Mon 15) · **official example exam** (Thu 18) | exam view Wed 17 | – | – | Inference full-time |
+| **W18** | 22–28 Feb | Mocks D and E · coaching | – | – | – | – |
+| **W19** | 1–7 Mar | short mock · **exam (expected March)** | – | – | – | – |
+| **W20** | 8–14 Mar | – | 2nd date Mon 8 Mar (if needed) | – | – | – |
+| **W21** | 15–21 Mar | – | – | 2nd date Tue 16 Mar (if needed) | – | – |
+| **W23** | 29 Mar–4 Apr | – | – | – | 2nd date Wed 31 Mar (if needed) | – |
 
 NLP and Big Data lecture topics are forecasts; each course plan says how to shift them when the real lectures differ.
 
@@ -202,10 +202,10 @@ NLP and Big Data lecture topics are forecasts; each course plan says how to shif
 
 ## 5. The next two weeks, day by day
 
-**Sun 11 Oct (today):** gym (if not done) · read this §3 and §5 (20 min) · install on the laptop (15 min):
-`pip install pandas scikit-learn nltk spacy gensim jupyter`, and **R + RStudio** (for IDS) · rest.
+**The plan starts Mon 12 Oct.** Install in Monday's planning slot (18:00–18:45):
+`pip install pandas scikit-learn nltk spacy gensim jupyter`, and **R + RStudio** (for IDS).
 
-### W2 · 12–18 Oct · first lectures + catch-up
+### W1 · 12–18 Oct · first lectures + catch-up
 
 | Day | Time | Block | Say / do |
 |---|---|---|---|
@@ -214,7 +214,7 @@ NLP and Big Data lecture topics are forecasts; each course plan says how to shif
 | | 13:15–14:00 | NLP: skim slides 1–43 (intro, data, regex) | `NLP/materials/last_year.pdf` |
 | | 14:00–15:30 | **Inference 1C:** discrete distributions (FLEX) | "Let's continue" |
 | | 16:30–18:00 | Big Data: F01 check (30 min) + ISLP ch. 2 (60 min) | BigData repo → "Foundations F01" |
-| | 18:00–18:30 | Weekly planning | |
+| | 18:00–18:45 | Weekly planning + install Python packages and R + RStudio | read §3 and §5 |
 | **Tue 13** | 08:30–10:00 | **NLP lecture 1** · ask the exam questions (NLP plan §8) | |
 | | 10:15–11:45 | **Inference 1D test** (30 min) + 1E recap (45 min) | tablet |
 | | 12:30–13:15 | NLP same-day review L1 | NLP repo → "Lecture review L1" |
@@ -246,9 +246,9 @@ NLP and Big Data lecture topics are forecasts; each course plan says how to shif
 | | 16:45–17:15 | Wrap-up | |
 | **Sun 18** | 08:00–11:00 | Gym · then free | |
 
-After W2: Inference's two catch-up topic weeks are done; it is now exactly one week behind its plan (absorbed in H1).
+After W1: Inference's two catch-up topic weeks are done; it is now exactly one week behind its plan (absorbed in H1).
 
-### W3 · 19–25 Oct · all courses running
+### W2 · 19–25 Oct · all courses running
 
 | Day | Time | Block |
 |---|---|---|
@@ -282,10 +282,10 @@ After W2: Inference's two catch-up topic weeks are done; it is now exactly one w
 | | 15:15–16:45 | **Python bootcamp 5:** `re` basics + a small text task (45 min) · R basics for IDS (45 min) |
 | **Sun 25** | 08:00–11:00 | Gym · then free |
 
-From W4 on, every day follows the timetable in §3 with the week's topics from §4. The overview page shows the exact
+From W3 on, every day follows the timetable in §3 with the week's topics from §4. The overview page shows the exact
 day for any date.
 
-**Admin (in the Monday planning blocks of W2–W3):**
+**Admin (in the Monday planning blocks of W1–W2):**
 - [ ] BOSS: exam registration and **de**registration deadlines for all five courses → phone calendar.
 - [ ] Exam regulations: attempts per exam; can a passed exam be improved?
 - [ ] Student council Discord: old exams / memory notes for NLP, Big Data, IDS, Inference.
@@ -298,19 +298,19 @@ day for any date.
 
 | Week | Maths (Inference toolkit + Big Data foundations) | Programming |
 |---|---|---|
-| W2 | Inference catch-up: derivatives, distributions, E/Var · F01 check, F03 | **Python bootcamp 1–3** |
-| W3 | Inference: max/min, normal, CLT · F04 gradients, F05 logistic model | **Python bootcamp 4–5** (incl. regex basics) · R basics for IDS |
-| W4 | F06 convexity, Taylor, gradient descent | P03 preprocessing, P04 numpy/pandas |
-| W5 | (F06 practice) | bigram LM, Naive Bayes from scratch |
-| W6 | F07 **eigenvalues**, PSD, covariance | P05 scikit-learn pipeline |
-| W7 | F08 **SVD**, PCA, multivariate normal | P06 gensim LDA |
-| W8 | F09 entropy, KL, mutual information | P06 Word2Vec |
-| W9 | F10 norms, ridge, lasso | P07 attention in numpy |
-| W10 | F11 posterior, conjugacy, Monte Carlo | P07 self-attention from scratch |
-| W11 | F12 backpropagation | P07 masks, P08 debugging |
-| W12 | F13 variational inference (ELBO) | P07 Hugging Face |
-| W13 | F14 kernels, Gaussian conditioning | P07 fine-tuning workflow |
-| W14–W15 | F15 kernel ridge, GP posterior | LoRA counts, quantization; P08 timed tasks |
+| W1 | Inference catch-up: derivatives, distributions, E/Var · F01 check, F03 | **Python bootcamp 1–3** |
+| W2 | Inference: max/min, normal, CLT · F04 gradients, F05 logistic model | **Python bootcamp 4–5** (incl. regex basics) · R basics for IDS |
+| W3 | F06 convexity, Taylor, gradient descent | P03 preprocessing, P04 numpy/pandas |
+| W4 | (F06 practice) | bigram LM, Naive Bayes from scratch |
+| W5 | F07 **eigenvalues**, PSD, covariance | P05 scikit-learn pipeline |
+| W6 | F08 **SVD**, PCA, multivariate normal | P06 gensim LDA |
+| W7 | F09 entropy, KL, mutual information | P06 Word2Vec |
+| W8 | F10 norms, ridge, lasso | P07 attention in numpy |
+| W9 | F11 posterior, conjugacy, Monte Carlo | P07 self-attention from scratch |
+| W10 | F12 backpropagation | P07 masks, P08 debugging |
+| W11 | F13 variational inference (ELBO) | P07 Hugging Face |
+| W12 | F14 kernels, Gaussian conditioning | P07 fine-tuning workflow |
+| W13–W14 | F15 kernel ridge, GP posterior | LoRA counts, quantization; P08 timed tasks |
 
 ---
 
@@ -318,13 +318,13 @@ day for any date.
 
 | Idea | Inference | NLP | Big Data | IDS 1 |
 |---|---|---|---|---|
-| Maximum likelihood | W7–W9 (core) | n-gram, Naive Bayes estimates | logistic regression, EM | – |
-| Bias, variance, MSE, model selection | W4–W6 | – | bias–variance, regularisation | I09 model selection |
-| Derivatives, gradients | W2 | neural nets, word2vec | optimisation, backprop | I12 neural nets |
-| Correlation, χ², tests | χ² tests (W14–W15) | feature selection (W5) | information theory | I07 association, correlation |
-| Clustering, PCA/SVD | – | clustering, LSA (W6) | unsupervised (W7–W8) | I14 cluster analysis |
-| Trees, SVM, kernels | – | – | supervised, kernels (W15) | I10, I11 |
-| Neural nets, deep learning | – | W7, W9–W13 | W12–W13 | I12, I13 |
+| Maximum likelihood | W6–W8 (core) | n-gram, Naive Bayes estimates | logistic regression, EM | – |
+| Bias, variance, MSE, model selection | W3–W5 | – | bias–variance, regularisation | I09 model selection |
+| Derivatives, gradients | W1 | neural nets, word2vec | optimisation, backprop | I12 neural nets |
+| Correlation, χ², tests | χ² tests (W13–W14) | feature selection (W4) | information theory | I07 association, correlation |
+| Clustering, PCA/SVD | – | clustering, LSA (W5) | unsupervised (W6–W7) | I14 cluster analysis |
+| Trees, SVM, kernels | – | – | supervised, kernels (W14) | I10, I11 |
+| Neural nets, deep learning | – | W6, W8–W12 | W11–W12 | I12, I13 |
 | Data management, big-data tools | – | – | T02 big data in R/Python | I04, I05 (databases, MapReduce) |
 
 ---
@@ -375,8 +375,8 @@ If you skip a first date and fail the second, there is no other attempt this sem
 
 ## 10. Plan reviews, red flags, and the minimum week
 
-**Plan reviews** (Monday planning block): W3 (19 Oct) · W6 (9 Nov) · W9 (30 Nov) · W12 (4 Jan) · W15 (25 Jan,
-with the exam decision) · W18 (15 Feb).
+**Plan reviews** (Monday planning block): W2 (19 Oct) · W5 (9 Nov) · W8 (30 Nov) · W11 (4 Jan) · W14 (25 Jan,
+with the exam decision) · W17 (15 Feb).
 
 | Signal | What happens |
 |---|---|
