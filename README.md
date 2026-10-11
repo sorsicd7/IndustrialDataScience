@@ -1,5 +1,9 @@
 # Industrial Data Science 1 (TU Dortmund): How to Use This Folder
 
+> **Status: DROPPED on 2026-10-11** (student's decision: replaced by German self-study this semester). Kept as an
+> archive for a later semester. Do not schedule IDS work and do not register for its exam.
+
+
 > **All five courses at a glance:** [semester overview page](https://claude.ai/artifact/HWvuvfoN3XtLec2nHMRTa5) (today's plan, timetable, exams).
 > Master plan: `master-plan.md` (synced copy; original `../MASTER-PLAN.md` on the laptop). This course's detailed plan: `semester-plan.md`.
 

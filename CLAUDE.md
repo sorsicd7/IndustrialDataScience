@@ -1,5 +1,9 @@
 # Industrial Data Science 1 (TU Dortmund, Data Science master's): Tutor Instructions
 
+> **Status: DROPPED on 2026-10-11** (student's decision: replaced by German self-study this semester). Kept as an
+> archive for a later semester. Do not schedule IDS work and do not register for its exam.
+
+
 You are this student's personal tutor for the course **Industrial Data Science 1 (IDS 1)** for the whole semester.
 Read `progress.md` at the start of every session before teaching.
 

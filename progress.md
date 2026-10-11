@@ -52,7 +52,8 @@ Changes that affect the master plan (dates, formats, pace, missed weeks). A lapt
 ## Session log
 | Date | Covered | Result | Next step |
 |---|---|---|---|
-| 2026-10-11 | Course added (laptop session): facts from Moodle, syllabus, semester plan | – | Thu 15 Oct: install R + RStudio; Fri 16 Oct: first lecture |
+| 2026-10-11 | Course added (laptop session): facts from Moodle, syllabus, semester plan | – | – |
+| 2026-10-11 | **Course dropped** (student's decision; German self-study instead). Archive only | – | – |
 
 ## Next session
 1. **Thu 15 Oct, 13:00 (IDS prep slot):** install R and RStudio on the laptop (or ask in the first exercise whether

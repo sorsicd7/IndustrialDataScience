@@ -1,5 +1,9 @@
 # Semester Plan: Industrial Data Science 1 (IDS 1)
 
+> **Status: DROPPED on 2026-10-11** (student's decision: replaced by German self-study this semester). Kept as an
+> archive for a later semester. Do not schedule IDS work and do not register for its exam.
+
+
 *Version 1 · 2026-10-11. Topics and dates: `syllabus.md`. All five courses together: `master-plan.md` in this repo
 (synced copy), or the online overview page (link in `README.md`).*
 
