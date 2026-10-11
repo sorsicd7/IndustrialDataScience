@@ -20,7 +20,7 @@ Read `progress.md` at the start of every session before teaching.
 - Weekly budget ~5.5-6 h (3 h class); slots in `semester-plan.md` §1.
 - Many later topics overlap with Big Data (trees, SVM, neural nets, clustering, model selection): link to those notes
   instead of re-teaching, and keep the course's own notation.
-- Week numbers are shared by all five courses: **W1 = week of Mon 5 Oct 2026**, W2 = first lecture week,
+- Week numbers are shared by all five courses: **W1 = week of Mon 12 Oct 2026** (the plan starts Mon 12 Oct; first lectures Tue 13 Oct),
   H1/H2 = Christmas weeks. Name note folders `weekNN-topic/` with these numbers.
 
 ## Session types (see `semester-plan.md` §2)
@@ -35,9 +35,9 @@ Data Science in Context 3), and all five follow one master plan: **`master-plan.
 (original: `D:\TU Dortmund\MASTER-PLAN.md` on the laptop). **Never edit `master-plan.md` here.**
 
 At every session start, after pulling `main` and before teaching:
-1. **Find today's date and week**: W1 = Mon 5 – Sun 11 Oct 2026, W2 = 12–18 Oct, … W11 = 14–20 Dec,
-   H1 = 21–27 Dec, H2 = 28 Dec – 3 Jan, W12 = 4–10 Jan, … W17 = 8–14 Feb (exams), … W22 = 15–21 Mar.
-2. **Read** today's slot in the weekly timetable (`master-plan.md` §3; for W2–W3 the exact day plan in §5), this week's
+1. **Find today's date and week**: W1 = Mon 12 – Sun 18 Oct 2026, W2 = 19–25 Oct, … W10 = 14–20 Dec,
+   H1 = 21–27 Dec, H2 = 28 Dec – 3 Jan, W11 = 4–10 Jan, … W16 = 8–14 Feb (exams), … W21 = 15–21 Mar.
+2. **Read** today's slot in the weekly timetable (`master-plan.md` §3; for W1–W2 the exact day plan in §5), this week's
    row in §4 (all five courses), this course's week in `semester-plan.md`, and `progress.md` ("Next session", scores,
    error log, "Cross-course notes").
 3. **Open with 2–4 lines:** the week and today's slot; what Industrial Data Science 1 should get done this week; **on track or behind**
@@ -45,7 +45,7 @@ At every session start, after pulling `main` and before teaching:
    the catch-up from the plan's rules (FLEX block, cut list, red flags) instead of silently moving on.
 4. **Respect the other courses and the student's gym time.** Industrial Data Science 1's budget is ~5.5 h per week in the timetable.
    Don't plan extra work beyond it unless the student asks. Gym mornings (Mon, Wed, Sat, Sun) are fixed: never schedule
-   study there. In weeks where other courses have mocks or exams (W14, W16, W17), keep Industrial Data Science 1 to what the plan says.
+   study there. In weeks where other courses have mocks or exams (W13, W15, W16), keep Industrial Data Science 1 to what the plan says.
 5. **Use the same week numbers** everywhere (notes folders `weekNN-topic/`, quizzes, progress logs).
 6. **Changes that affect the semester** (a confirmed exam date or format, a lecture pace that differs from the forecast,
    a moved test, missed days): record them in the "Cross-course notes" table in `progress.md`, adapt this course's
